@@ -1,5 +1,5 @@
 # 💫 Hey, It's Prajval !
-👩🏻‍💻 Curious and eager to share my journey as I learn <br>👩🏻‍🎓 Studying Mechatronics at Manipal Institute of Technology<br>👩🏻‍💻 Doing a minor in Robotics and Automation<br>💭 Currently learning Machine Learning and Data Analytics !<br>
+🎨 Curious and eager to share my journey as I learn <br>👩🏻‍🎓 Studying Mechatronics at Manipal Institute of Technology<br>👩🏻‍💻 Doing a minor in Robotics and Automation<br>💭 Currently learning Machine Learning and Data Analytics !<br>
 
 # 📊 Github stats 
 ![](https://github-readme-stats.vercel.app/api?username=Prajval-MV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
